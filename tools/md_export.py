@@ -342,7 +342,7 @@ def export_pdf(md_path: Path, out_path: Path) -> None:
         canvas.saveState()
         canvas.setFont(CJK_FONT_PDF, 7.5)
         canvas.setFillColor(colors.HexColor("#8B939C"))
-        canvas.drawString(18 * mm, 9 * mm, "天工 Tiangong-EWA · 具身智能工厂作业智能体平台")
+        canvas.drawString(18 * mm, 9 * mm, "智能体工程化项目实战 · 64 课时 · 天工 Tiangong-EWA 基线")
         canvas.drawRightString(A4[0] - 18 * mm, 9 * mm, f"{doc_.page}")
         canvas.restoreState()
 

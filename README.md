@@ -4,6 +4,7 @@
 > **学时**：64 课时（16 次课 × 4 课时）｜ **适用**：高职高专 人工智能技术应用 / 大数据技术 / 智能装备技术
 > **基线项目**：[天工 Tiangong-EWA](https://github.com/tianqiongenze/tiangong-ewa)（具身智能工厂作业智能体平台）
 > **版本**：v1.0（与天工 v1.2 对齐）｜ 编制：2026-10-26
+> **仓库地址**：[GitHub](https://github.com/tianqiongenze/tiangong-course)
 
 ---
 
